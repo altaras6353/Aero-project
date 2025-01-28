@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uqvJoGd0+lGKYBpcXMnwvSyVxSAfuudGFfRV8c2C9Tk=",
+  "Source": "PointsService",
+  "BasePath": "_content/PointsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,97 @@
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\appsettings.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.staticwebassets.runtime.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.staticwebassets.endpoints.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.exe
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.deps.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.runtimeconfig.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\bin\Debug\net9.0\Entities Presenter.pdb
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.AssemblyInfoInputs.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.AssemblyInfo.cs
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.csproj.CoreCompileInputs.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.RazorAssemblyInfo.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.RazorAssemblyInfo.cs
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\scopedcss\bundle\Entities Presenter.styles.css
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\scopedcss\projectbundle\Entities Presenter.bundle.scp.css
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\tylq7kab5r-b9sayid5wm.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\id2anrturo-61n19gt1b8.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\v14ed2zuo3-xtxxf3hu2r.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\0ofz64fpz8-bqjiyaj88i.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\wvyoh032pl-c2jlpeoesf.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\iskid8incq-erw9l3u2r3.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\jyg4nv8cbw-aexeepp0ev.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ngbbkgqsvc-d7shbmvgxk.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\h47b3r5vt4-ausgxo2sd3.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\50w31dh0ih-k8d9w2qqmf.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\gdu1q70s16-cosvhxvwiu.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\h8tv58yg9n-ub07r2b239.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\hic99k6q88-fvhpjtyr6v.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\6xlpotttx2-b7pk76d08c.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\dqbahwha91-fsbi9cje9m.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ywusn055tg-rzd6atqjts.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\wbqapn60a8-ee0r1s7dh0.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\27v0li88v0-dxx9fxp4il.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\g7j2uqyklu-jd9uben2k1.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\mn0olhin5l-khv3u5hwcm.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\66in9op1sb-r4e9w2rdcm.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\5pasf0dbqb-lcd1t2u6c8.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\iy001eeare-c2oey78nd0.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\gdg523y009-tdbxkamptv.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\faafg3g474-j5mq2jizvt.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\x3ts1s8f77-06098lyss8.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ibi77bdp5l-nvvlpmu67g.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\5npaj7niyw-s35ty4nyc5.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\wd2r3lmvoz-pj5nd1wqec.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\sdyv2ldv0l-46ein0sx1k.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\nqoofrgdgh-v0zj4ognzu.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\a3g7cuv2af-37tfw0ft22.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\hj7czp8wna-hrwsygsryq.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\y80o9gtblg-pk9g2wxc8p.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\pmfmr17s0j-ft3s53vfgj.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\wkz4ojqru5-6cfz1n2cew.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\y7dpk80w6o-6pdc2jztkx.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\yxzg86qf2e-493y06b0oq.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\nmruy87943-iovd86k7lj.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ysj4ktn89w-vr1egmr9el.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\21sbrf9e6x-kbrnm935zg.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ankyqmtu85-jj8uyg4cgr.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\8slc2ba206-y7v9cxd14o.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\7wye6xn0ck-notf2xhcfb.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\abfdbm34b3-h1s4sie4z3.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\u1zk09z1tu-63fj8s7r0e.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\j0fjfu0sol-0j3bgjxly4.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\6cl3h6hbj3-47otxtyo56.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\k26bslz1uu-4v8eqarkd7.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ob2giq67es-356vix0kms.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\u01483l314-83jwlth58m.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\b9ddagwbw3-mrlpezrjn3.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\8f81x94c22-lzl9nlhx6b.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\zorl3i6qba-ag7o75518u.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\bikz729srf-x0q3zqp4vz.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\lufj5z76wb-0i3buxo5is.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\mmpfam8wpi-o1o13a6vjx.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\vqayi78y24-ttgo8qnofa.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\qje1099khc-2z0ns9nrw6.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\ok4vlr6fx4-muycvpuwrr.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\3a8w1a7na5-87fc7y1x7t.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\h8509oijwz-mlv21k5csn.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\jfwmi6ztug-ma0io6y2oh.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\compressed\eygwrblzj8-ma0io6y2oh.gz
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets\msbuild.Entities Presenter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets\msbuild.Entities Presenter.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets\msbuild.build.Entities Presenter.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Entities Presenter.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Entities Presenter.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\refint\Entities Presenter.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.pdb
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\Entities Presenter.genruntimeconfig.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Entities Presenter\Entities Presenter\obj\Debug\net9.0\ref\Entities Presenter.dll

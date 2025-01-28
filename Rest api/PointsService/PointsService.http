@@ -1,0 +1,6 @@
+@PointsService_HostAddress = http://localhost:5190
+
+GET {{PointsService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

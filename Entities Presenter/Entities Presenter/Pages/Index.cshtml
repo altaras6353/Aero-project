@@ -1,0 +1,132 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Entities Presenter";
+}
+
+<center>
+    <div id="wrapper" style="border: 1px solid black; padding: 20px; display: inline-block;">
+        <button class="close" onclick="closeWindow()"
+                style="float: right; background: none; border: none; color: #888; font-size: 16px; cursor: pointer;">X</button>
+        <h1>
+            Realtime Map
+        </h1>
+
+        <div id="mapContainer" style="position: relative; 
+                    width: 1024px; 
+                    height: 512px; 
+                    background-color: lightgray;">
+
+            <img src="/images/earth.jpg" alt="Map" style="width: 100%; 
+                        height: 100%; 
+                        object-fit: cover;">
+        </div>
+    </div>
+</center>
+<center>
+<button id="toggleBtn" onclick="toggleMap()" style="margin-bottom: 10px; width: 10%;">Switch to Map 2</button>
+</center>
+
+<script>
+    console.log("Page loaded, initializing WebSocket...");
+
+    const socket = new WebSocket("ws://localhost:5190/ws");
+
+    socket.onopen = function (event) {
+        console.log("WebSocket connection established.");
+        socket.send("Client connected");
+    };
+
+    socket.onmessage = function (event) {
+        console.log("Received message:", event.data);
+
+        let point;
+        try {
+            point = JSON.parse(event.data);
+            console.log("Parsed point:", point);
+        } catch (e) {
+            console.error("Failed to parse JSON:", e);
+            return;
+        }
+
+        if (point && point.X !== undefined && point.Y !== undefined) {
+            updatePointOnMap(point);
+        } else {
+            console.error("Invalid point format:", point);
+        }
+    };
+
+    socket.onerror = function (error) {
+        console.error("WebSocket Error:", error);
+    };
+
+    socket.onclose = function (event) {
+        console.log("WebSocket connection closed.");
+    };
+
+    function updatePointOnMap(point) {
+        console.log("Updating point on map:", point);
+
+        const mapContainer = document.getElementById("mapContainer");
+        if (!mapContainer) {
+            console.error("Map container not found!");
+            return;
+        }
+
+        if (point.X < 0 || point.X > 1024 || point.Y < 0 || point.Y > 512) {
+            console.error("Point out of bounds:", point);
+            return;
+        }
+
+        let existingPointDiv = document.getElementById(`point-${point.Name}`);
+        if (existingPointDiv) {
+            console.log(`Updating existing point: ${point.Name}`);
+            existingPointDiv.style.left = `${point.X - 10}px`;
+            existingPointDiv.style.top = `${point.Y - 10}px`;
+            existingPointDiv.title = `Name: ${point.Name}\nX: ${point.X}\nY: ${point.Y}`;
+        } else {
+            console.log(`Adding new point: ${point.Name}`);
+
+            const pointDiv = document.createElement("div");
+            pointDiv.title = `Name: ${point.Name}\nX: ${point.X}\nY: ${point.Y}`;
+            pointDiv.id = `point-${point.Name}`;
+            pointDiv.style.position = "absolute";
+            pointDiv.style.width = "20px";
+            pointDiv.style.height = "20px";
+            pointDiv.style.borderRadius = "50%";
+            pointDiv.style.backgroundColor = "red";
+            pointDiv.style.border = "2px solid darkred";
+            pointDiv.style.cursor = "pointer";
+            pointDiv.style.left = `${point.X - 10}px`;
+            pointDiv.style.top = `${point.Y - 10}px`;
+            mapContainer.appendChild(pointDiv);
+
+            const textDiv = document.createElement("div");
+            textDiv.innerText = point.Name;
+            textDiv.style.position = "absolute";
+            textDiv.style.top = "15px";
+            textDiv.style.left = "-10px";
+            textDiv.style.width = "40px";
+            textDiv.style.textAlign = "center";
+            textDiv.style.fontSize = "12px";
+            textDiv.style.color = "white";
+            pointDiv.appendChild(textDiv);
+
+        }
+    }
+</script>
+
+<script>
+    function toggleMap() {
+        const mapImage = document.querySelector("#mapContainer img"); // קבלת אלמנט התמונה
+        const toggleBtn = document.getElementById("toggleBtn");
+
+        if (mapImage.src.includes("earth.jpg")) {
+            toggleBtn.innerText = "Switch to Map 1";
+            mapImage.src = "/images/map.jpg"; // מעבר למפת כבישים
+        } else {
+            toggleBtn.innerText = "Switch to Map 2";
+            mapImage.src = "/images/earth.jpg"; // חזרה למפת לוויין
+        }
+    }
+</script>

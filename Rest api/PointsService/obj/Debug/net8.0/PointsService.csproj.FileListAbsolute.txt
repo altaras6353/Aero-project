@@ -1,0 +1,78 @@
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\appsettings.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\PointsService.staticwebassets.endpoints.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\PointsService.exe
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\PointsService.deps.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\PointsService.runtimeconfig.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\PointsService.pdb
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.csproj.AssemblyReference.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.AssemblyInfoInputs.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.AssemblyInfo.cs
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.csproj.CoreCompileInputs.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\scopedcss\bundle\PointsService.styles.css
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.PointsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.PointsService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.build.PointsService.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PointsService.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PointsService.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsSe.9CA84F55.Up2Date
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\refint\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.pdb
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\PointsService.genruntimeconfig.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Rest api\PointsService\obj\Debug\net8.0\ref\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\appsettings.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\PointsService.staticwebassets.endpoints.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\PointsService.exe
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\PointsService.deps.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\PointsService.runtimeconfig.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\PointsService.pdb
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.csproj.AssemblyReference.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.AssemblyInfoInputs.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.AssemblyInfo.cs
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.csproj.CoreCompileInputs.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\scopedcss\bundle\PointsService.styles.css
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.PointsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.PointsService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.build.PointsService.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PointsService.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PointsService.props
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsSe.9CA84F55.Up2Date
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\refint\PointsService.dll
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.pdb
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\PointsService.genruntimeconfig.cache
+C:\Users\Amit Altaras\Desktop\Personal\Aeronautics app\Job Project\Rest api\PointsService\obj\Debug\net8.0\ref\PointsService.dll

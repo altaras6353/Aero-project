@@ -1,0 +1,79 @@
+using PointsService.Models;
+using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+
+namespace PointsService.Services
+{
+    public static class RabbitMqService
+    {
+        private static readonly ConnectionFactory _factory = new() { HostName = "localhost" };
+
+        public static async Task SendPointToRabbitAsync(PointRequest point)
+        {
+            await using var connection = await _factory.CreateConnectionAsync();
+            await using var channel = await connection.CreateChannelAsync();
+
+            await channel.QueueDeclareAsync(
+                queue: "pointsQueue",
+                durable: false,
+                exclusive: false,
+                autoDelete: false,
+                arguments: null
+            );
+
+            var jsonMessage = JsonSerializer.Serialize(point);
+            var body = Encoding.UTF8.GetBytes(jsonMessage);
+
+            var basicProperties = new BasicProperties();
+
+            await channel.BasicPublishAsync<BasicProperties>(
+                exchange: "",
+                routingKey: "pointsQueue",
+                mandatory: false,
+                basicProperties: basicProperties,
+                body: body,
+                cancellationToken: CancellationToken.None
+            );
+
+            Console.WriteLine($" [x] Sent {jsonMessage} to RabbitMQ");
+        }
+
+        public static async Task StartRabbitMqListener(WebSocketHandler webSocketHandler)
+        {
+            var connection = await _factory.CreateConnectionAsync();
+            var channel = await connection.CreateChannelAsync();
+
+            await channel.QueueDeclareAsync(
+                queue: "pointsQueue",
+                durable: false,
+                exclusive: false,
+                autoDelete: false,
+                arguments: null
+            );
+
+            var consumer = new AsyncEventingBasicConsumer(channel);
+            consumer.ReceivedAsync += async (model, ea) =>
+            {
+                var body = ea.Body.ToArray();
+                var message = Encoding.UTF8.GetString(body);
+                var point = JsonSerializer.Deserialize<PointRequest>(message);
+
+                if (point != null)
+                {
+                    Console.WriteLine($"[x] API Received back {point.Name} - X: {point.X}, Y: {point.Y}");
+                    await webSocketHandler.BroadcastMessageAsync(message);
+                }
+            };
+
+            await channel.BasicConsumeAsync(queue: "pointsQueue", autoAck: true, consumer: consumer);
+
+            Console.WriteLine("RabbitMQ async listener started.");
+
+            // מנגנון השהייה כדי לשמור על מאזין פעיל
+            await Task.Delay(Timeout.Infinite);
+        }
+    }
+}
