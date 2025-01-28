@@ -6,7 +6,7 @@ This repository contains three separate .NET applications that communicate via a
 
 ## Prerequisites
 
-1. **.NET 6 (or later)**  
+1. **.NET **  
    Download it here: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
 
 2. **RabbitMQ**  
